@@ -9,7 +9,7 @@ if (config.runsInWidget) {
         Script.complete()
     }
 
-    let widget = createWidget(`확진자 : ${resp.TotalCase}명`, `완치자 : ${resp.TotalRecovered}명`, `격리자 : ${resp.NowCase}`,`사망자 : ${resp.TotalDeath}명`, "#53D769")
+    let widget = createWidget(`총 확진자 : ${resp.TotalCase}명`, `완치자 : ${resp.TotalRecovered}명`, `격리자 : ${resp.NowCase}명`,`사망자 : ${resp.TotalDeath}명`, "#53D769")
     Script.setWidget(widget)
     Script.complete()
 }
