@@ -13,7 +13,7 @@ IOS 앱 [Sciptable](https://apps.apple.com/kr/app/scriptable/id1405459188)에서
 
 ## 적용 사진
 
-![image](https://raw.githubusercontent.com/ombe1229/Covid-Scriptable/master/example.png)
+![image](https://raw.githubusercontent.com/ombe1229/Covid-Scriptable/master/image.png)
 
 ### 사용한 API
 
